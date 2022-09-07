@@ -1,0 +1,5 @@
+E:\курси Beetroot\Csharp\Lesson11\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.csproj.AssemblyReference.cache
+E:\курси Beetroot\Csharp\Lesson11\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.GeneratedMSBuildEditorConfig.editorconfig
+E:\курси Beetroot\Csharp\Lesson11\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.AssemblyInfoInputs.cache
+E:\курси Beetroot\Csharp\Lesson11\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.AssemblyInfo.cs
+E:\курси Beetroot\Csharp\Lesson11\Lesson11\Lesson11\obj\Debug\net6.0\Lesson11.csproj.CoreCompileInputs.cache
